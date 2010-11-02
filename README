@@ -1,0 +1,9 @@
+
+libAVRil - the girlish avr utility library
+
+This is a small collection of generally useful AVR code.
+
+It targets all those little super-trivial AVR applications
+we all have lying around, so it comes without bells and
+whistles, just providing a few utilities that can be used
+to access the bare metal more conveniently.
